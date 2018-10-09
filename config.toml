@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = ""
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -65,5 +65,4 @@ canonifyurls    = true
   name = "Project & Interest"
   url = "https://www.alfieqashwa.me/"
   weight = 95
-
 
