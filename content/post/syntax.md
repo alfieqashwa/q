@@ -1,7 +1,7 @@
 ---
 title: 'Syntax'
 date: 2018-10-09T14:44:59+07:00
-draft: true
+draft: false
 tags: ['programming', 'music', 'religion']
 categories: ['programming', 'music', 'religion']
 description: ''
